@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "comfystuff",
+		"name": "Comfy Stuff",
+		"description": "Adds comfy items to make you fell comfortable",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["AnaJuliaCodes"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
