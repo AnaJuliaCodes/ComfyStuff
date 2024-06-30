@@ -6,13 +6,13 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 @Mod(
-	modid = SampleMod112.MODID,
-	name = SampleMod112.NAME,
-	version = SampleMod112.VERSION
+	modid = ComfyStuff.MODID,
+	name = ComfyStuff.NAME,
+	version = ComfyStuff.VERSION
 )
 public class SampleMod112 {
-	public static final String MODID = "samplemod112";
-	public static final String NAME = "Sample Mod 1.12";
+	public static final String MODID = "comfystuff";
+	public static final String NAME = "Comfy Stuff";
 	public static final String VERSION = "1.0";
 	
 	public static final Logger LOGGER = LogManager.getLogger(MODID);
